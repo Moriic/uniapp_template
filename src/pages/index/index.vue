@@ -8,5 +8,5 @@ const increment = () => {
 </script>
 <template>
   <view>Current Count: {{ counter.count }}</view>
-  <button @click="increment">asds</button>
+  <button @click="increment">add count</button>
 </template>
